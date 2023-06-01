@@ -1,1 +1,1 @@
-alert("KING")
+console.log("KING")
